@@ -11,4 +11,7 @@ git commit -m "Message"
 Commit files, with commit message in ""
 
 git remote add origin git@github.com:markwsnyder/advent-of-code-ms.git
-Push commited files to GitHub
+Add remote connection
+
+git push -u origin master
+Push to github, with last ophtion being the branch
